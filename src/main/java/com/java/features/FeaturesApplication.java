@@ -8,7 +8,12 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import java.util.Collection;
 import java.util.Set;
 import java.util.logging.Logger;
-
+/**
+ * Clase principal de la aplicación
+ * @version 1.0
+ * @since 1.0
+ * @author Lionard Leyva  https://www.linkedin.com/in/lionardleyva/
+ */
 @SpringBootApplication
 public class FeaturesApplication {
 private static final Logger LOGGER = Logger.getLogger(FeaturesApplication.class.getName());
