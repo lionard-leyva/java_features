@@ -12,7 +12,12 @@ public record FullTime(
             throw new IllegalArgumentException("Name and living place cannot be null");
         }
     }
+
     public long liquidSalary() {
         return Math.round(grossSalary * 0.85);
+    }
+
+    public long lifeInsurance() {
+        return Math.round(grossSalary * 0.1);
     }
 }
