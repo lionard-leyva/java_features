@@ -1,8 +1,8 @@
-package com.java.features.deop;
+package com.java.features.dop;
 
-import com.java.features.deop.models.Empleado;
-import com.java.features.deop.models.FullTime;
-import com.java.features.deop.models.PartTime;
+import com.java.features.dop.models.Empleado;
+import com.java.features.dop.models.FullTime;
+import com.java.features.dop.models.PartTime;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import java.util.Collection;

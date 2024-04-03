@@ -1,4 +1,4 @@
-package com.java.features.deop.models;
+package com.java.features.dop.models;
 
 public record PartTime(
         String name,

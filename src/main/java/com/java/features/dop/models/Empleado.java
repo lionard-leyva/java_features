@@ -1,4 +1,4 @@
-package com.java.features.deop.models;
+package com.java.features.dop.models;
 
 /**
  * Interface Empleado que contiene los metodos de las clases FullTime y PartTime
